@@ -1,0 +1,6 @@
+VisualGDB/Debug/xprintf.o: xprintf.c xprintf.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-none-eabi\9.3.1\include\stdarg.h
+
+xprintf.h:
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-none-eabi\9.3.1\include\stdarg.h:

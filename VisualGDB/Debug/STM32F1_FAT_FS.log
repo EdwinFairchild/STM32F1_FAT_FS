@@ -1,0 +1,5 @@
+﻿  STM32F1_FAT_FS.c
+  Linking VisualGDB/Debug/STM32F1_FAT_FS...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 17KB out of 64KB (27%) [+40]
+  Used SRAM: 1436 bytes out of 20KB (7%)
